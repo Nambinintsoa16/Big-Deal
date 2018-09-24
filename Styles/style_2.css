@@ -1,0 +1,259 @@
+@media(max-width: 1024px){
+	body{
+	
+}
+	
+#entet{
+	
+	height: 130px; 
+	width: 100%;
+	margin: 0px auto 0px auto;
+	
+	width: 720px;
+}
+#entet-col{
+	width: 100%;
+	background-image: url('../image/background2.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 141px;
+
+}
+#wrapper{
+	margin: 2px auto 0px auto;
+	box-sizing: border-box;
+	height: 790px;
+	width: 720px;
+	
+}
+#nenu{
+	height: 25px;
+	padding-top: 2px;
+
+}
+#menu-lien{
+	list-style: none;
+	margin-left:450px;
+
+}
+#menu-lien li{
+	float: left;
+	margin-left:20px; 
+}
+#menu-lien li a{
+text-decoration:none;
+color: #fff;
+text-transform: uppercase;
+}
+#logo-big{
+	width:120px ;
+	height: 70px;
+	margin-top: 25px;
+
+	
+}
+#div-rech{
+	width: 400px;
+	margin-left: 70px;
+	height: 50px;
+	
+}
+
+#cont-input-div{
+	width: 380px;
+	height:41px;
+	border-radius:5px;
+	background-color: #fff;
+}
+#cont-input-div img{
+	width: 38px;
+	height: 38px;
+	float: right;
+	border-radius: 0px 6px 6px 0px;
+}
+#cadi{
+	/*background-color: #fff;*/
+	float: right;
+	width:42px; 
+	height: 42px;
+	margin-top: 23px;
+	
+	position: absolute;
+	margin-left: 600px;
+
+	background-color:#ffca5f;
+}
+#cadi img{
+	width: 38px;
+	height: 38px;
+
+}
+.ban{
+	float: left;
+}
+#logo-big img{
+	width:200px ;
+	height: 40px;	
+}
+#recherche{
+	width:87%;
+	height:100%;
+	border-radius: 3px;
+	padding-left: 17px;
+
+	
+}
+
+
+#cont-lien{
+		width: 720px;
+		height: 120px;
+		padding-top: 6px;
+		
+	}
+
+#lien-2-2{
+	list-style:none;
+}
+  #anim{
+  	width: 98px;
+  	height: 98px;
+
+  	
+  }
+  #lien-2-2 li{
+	float: left;
+	margin-left: 70px;
+	width:  100px;
+	height: 100px; 	
+	
+	
+  }
+
+
+  footer{
+	width: 100%;
+	height: 324px;
+	margin-top: 10px;
+	
+
+
+}
+#cont-foot-1{
+	/*background-image: url('../image/background.png');*/
+	background-repeat: no-repeat;
+	background-color: #1f242d;
+	background-attachment: fixed;
+	height: 180px;
+	width: 100%;
+}
+#cont-foot-2{
+	background-color:#fff;
+	width: 100%;
+	height: 300px;
+	
+}
+.cont-foot-text{
+	height: 143px;
+	width:250px;	
+	margin-top:5px;
+	margin-left:0px; 
+
+
+}
+.pied-1-txt{
+	font-size: 15px;
+	line-height: 5px;
+	
+}
+.cont-foot-text a{
+	line-height: 1px;
+	text-decoration: none;
+	color: #000;
+	font-size:12px; 
+}
+.cont-foot-text ol li{
+	list-style: none;
+
+}
+.cont-foot-text ol{
+	margin-left: 10px;
+}
+
+#mail{
+	border-radius: 6px; 
+	border-style: none;
+	margin-left: 2px;
+	width: 150px;
+	height: 35px;
+	font-size:12px;
+	margin-top: 10px;
+	
+}
+#Me-s-inscrit{
+	
+	height: 60px;
+	margin-top: 9px;
+	padding-top: 2px;
+
+}
+#input{
+    height: 35px;
+    width:150px; 
+    margin-left: 10px; 
+    background-size: cover;
+    background-repeat: none;
+    background-image: url('../image/inscrire.png');
+    box-sizing: border-box;
+    border: none;
+    border-radius: 6px;
+}
+#foot-f img{
+	height:35x; 
+}
+#foot-f tr{
+  width: 110px;
+}
+#foot-f td{
+
+	width:397px;
+
+}
+.Meth-pay{
+	margin-left:10px; 
+	width: 300px;
+	
+}
+.Rejo-no-fb{
+	margin-left: 0px; 
+	width: 150px;
+	
+	
+}
+#big-deal{
+	margin-left: 4px;
+	width: 150px;
+}
+.Rejo-no-fb img{
+	
+	
+}
+.Rejo-no-fb{
+	width:200px;
+}
+#cont-foot-1 .cont-foot-text ol{
+	color: #fff;
+}
+#cont-foot-1 .cont-foot-text a{
+	color: #fff;
+}
+#Me-s-inscrit label{
+		color: #fff;
+}
+#Offres{
+	margin-left: -6px;
+	width: 170px;
+}
+
+
+}

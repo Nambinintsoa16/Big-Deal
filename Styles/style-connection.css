@@ -1,0 +1,58 @@
+*{
+	padding:0px;
+	margin:0px;	
+}
+body{
+	font-family: Roboto;
+	background-image: url('../image/explosion-3382845.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+}
+#wrapper-connect{
+	margin: 5% auto 0px auto;
+	width: 700px;
+	height: 800px;
+	background-image: url('../image/carre-02-03.png');
+	background-repeat: no-repeat;
+	background-position: left top;
+	background-size: cover;
+	padding-top: 10px;
+}
+#conteneur{
+	width: 500px;
+	margin: 10% auto 15px auto;
+	height: 400px;
+
+}
+#cont-entete ol li{
+	list-style: none;
+	height: 100px;
+	
+}
+#cont-entete {
+   
+
+}
+#cont-entete ol li:last-child{
+	height: 60px;
+	text-align: center;
+	text-transform: uppercase bold;
+
+	padding-top: 20px;
+
+}
+#pied-connct ol li{
+	list-style: none;
+	float: left;
+	width: 250px;
+}
+#pied-connct{
+	margin-top: 20px;
+}
+#pied-connct ol li:last-child{
+	padding-left: 50px;
+}
+#averte{
+	margin-top:80px; 
+}

@@ -1,0 +1,69 @@
+#wrapper-cont-sing{
+	width: 1024px;
+	margin: 5px auto 5px auto;
+	margin-top: 70px;
+	margin-bottom: 200px;
+}
+#entete-singl{
+	width:1024px; 
+	
+}
+#img-desc{
+	
+	width: 250px;
+	height: 300px;
+	
+}
+.entete-singl{
+	float: left;
+	height: 300px;
+}
+.entete-singl ol li{
+	list-style: none;
+	margin: 20px;
+
+}
+#video-tem ol li:last-child{
+	text-align: right;
+
+}
+
+#desc{
+	width: 250px;
+	background-color: #fff
+	margin-left:20px;
+}
+#video-tem{
+	width: 515px;
+	padding-left: 155px;
+
+}
+#img-fb img{
+	width:65px;
+	height:40px;
+}
+#special{
+
+	padding-left: 300px;
+	
+}
+#special .bt{
+	width: 20px;
+	height: 30px;
+}
+#special #champ-1{
+	width: 30px;
+	height: 30px;
+}
+#entete-singl #img-desc img{
+   width: 100%;
+   height: 100%;
+}
+#special #p1{
+	text-decoration: none;
+	color: #000;
+	border: solid 1px #f7a63e;
+	border-radius: 6px; 
+	background-color: #f7a63e;
+	padding: 5px;
+}
