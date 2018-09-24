@@ -32,11 +32,7 @@ if(isset($_GET['page'])&& !empty($_GET['page']) && in_array($_GET['page'].'.php'
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
 <script type="text/javascript" src="JS/fonction.js"></script>
-<style type="text/css">
-	body{
-		background-color: #eff0f5;
-	}
-</style>
+
 </head>
 <body>
 	<div>
